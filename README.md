@@ -1,4 +1,4 @@
-# EKS Turorial
+# EKS Tutorial
 
 ## 必要なパラメータ
 
